@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+h1{
+    color: blue;
+}
+footer {
+    background-color: #f2f28f;
+    padding: 10px;
+
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav a {
+    margin:20px;
+    font-size:20px;
+    text-decoration:none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+
+select{
+    padding: 10px;
+    background-color: white;
+    color: royalblue;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 3px solid navy;
+}
